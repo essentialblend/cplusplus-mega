@@ -1,0 +1,1 @@
+/*E13 - Write a function that takes a vector<string> argument and returns a vector<int> containing the number of characters in each string. Also find the longest and the shortest string and the lexicographically first and last string. How many separate functions would you use forthese tasks? Why?*/
